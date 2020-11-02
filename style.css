@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: red;
+}
+
+h1 {
+    color: yellow;
+    text-decoration: underline;
+}
+
+#album {
+    width: 700px;
+    border: solid;
+    padding: 5px;
+    border-width: 10px;
+    border-color: darkblue;
+}
+
+#next {
+    color: yellow;
+    background-color: lightblue;
+}
+
+#ff {
+    color: yellow;
+    font-size: 50px;
+}
